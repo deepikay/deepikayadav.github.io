@@ -117,7 +117,7 @@ font-size: 0.9em;
 #subnav {
 clear: left;
 float: left;
-width: 300px;
+width: 500px;
 padding: 0;
 font-size: 0.6em;
 font-family: verdana, arial, sans-serif;
@@ -125,7 +125,7 @@ font-family: verdana, arial, sans-serif;
 
 #subnav ul {	
 list-style: none;
-width: 300spx;
+width: 500px;
 margin: 0 0 20px 0;
 padding: 0;
 font-size: 1.1em;
