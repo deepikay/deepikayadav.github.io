@@ -237,7 +237,7 @@ font-size: 0.7em;
 #box1 {
 background: #fff url('boxbg.jpg') repeat-x top;
 border: 1px solid #ccc;
-width: 50%;  
+width: 30%;  
 float: center; 
 margin: 0 2px; text-align: center;
 padding: 1px; 
