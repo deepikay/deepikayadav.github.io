@@ -14,9 +14,13 @@ text-decoration: underline;
 color: #f70;
 }
 
-authors {
-font-size: 15px;;
+title {
+font-size: 0.9em;
 }
+authors {
+font-size: 0.7em;
+}
+
 
 #preload {
 width: 0;
@@ -36,7 +40,7 @@ z-index: 1;
 #header h1 {
 display: block;
 position: absolute;
-margin: 50px 0 0 50px; padding: 0;
+margin: 80px 0 0 50px; padding: 0;
 background-color: transparent;
 color: #fff;
 font-family: 'trebuchet ms', 'century gothic', verdana, sans-serif;
@@ -121,7 +125,7 @@ font-size: 0.9em;
 #subnav {
 clear: left;
 float: left;
-width: 160px;
+width: 180px;
 padding: 0;
 font-size: 0.8em;
 font-family: verdana, arial, sans-serif;
@@ -141,7 +145,7 @@ margin-bottom: 1px;
 
 #subnav li a {
 font-weight: bold;
-height: 30px;
+height: 25px;
 text-decoration: none;
 color: #cccccc;
 display: block;

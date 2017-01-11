@@ -14,9 +14,13 @@ text-decoration: underline;
 color: #f70;
 }
 
-authors {
-font-size: 15px;;
+title {
+font-size: 0.9em;
 }
+authors {
+font-size: 0.7em;
+}
+
 
 #preload {
 width: 0;
