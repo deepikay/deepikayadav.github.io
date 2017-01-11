@@ -123,7 +123,7 @@ clear: left;
 float: left;
 width: 160px;
 padding: 0;
-font-size: 0.6em;
+font-size: 0.8em;
 font-family: verdana, arial, sans-serif;
 }
 
@@ -132,7 +132,7 @@ list-style: none;
 width: 160px;
 margin: 0 0 20px 0;
 padding: 0;
-font-size: 1.1em;
+font-size: 1.3em;
 }	
 
 #subnav li {
@@ -147,7 +147,7 @@ color: #cccccc;
 display: block;
 padding: 10px;
 background: #3b3b3b;
-border-right: 10px solid #fff;
+
 }	
 	
 #subnav li a:hover {
@@ -176,7 +176,7 @@ border-right: 10px solid #fff;
 }
 
 #content {
-margin: 0 160px 10px 200px;
+margin: 0 160px 10px 220px;
 padding: 0 10px 0 0;
 line-height: 1.6em;
 color: #666;
