@@ -100,10 +100,17 @@ width: 100%;
 background: url('main.jpg') repeat-x top;
 }
 
+#dp {
+clear: left;
+float: left;
+width: 140px;
+padding: 0;
+}
+
 #container {
 width: 90%;
 margin: 0 auto;
-padding-top: 10px;
+padding-top: 50px;
 font-family: arial;
 font-size: 0.9em;
 }
