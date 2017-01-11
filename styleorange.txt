@@ -238,8 +238,8 @@ font-size: 0.7em;
 background: #fff url('boxbg.jpg') repeat-x top;
 border: 1px solid #ccc;
 width: 30%;  
-float: left; 
-margin: 0 2px; text-align: left;
+float: center; 
+margin: 0 2px; text-align: center;
 padding: 1px; 
 }
 
