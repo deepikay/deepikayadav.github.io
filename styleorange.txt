@@ -101,8 +101,7 @@ background: url('main.jpg') repeat-x top;
 }
 
 #profilepic{
-clear: left;
-float: left;
+margin: 0 auto;
 width: 140px;
 padding: 0;
 }
